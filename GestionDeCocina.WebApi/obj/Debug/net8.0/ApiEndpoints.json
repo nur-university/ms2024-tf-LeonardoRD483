@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GestionDeCocina.WebApi.Controllers.IngredienteController",
+    "Method": "CreateIngrediente",
+    "RelativePath": "api/Ingrediente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "GestionDeCocina.Application.Ingredientes.createIngrediente.CreateIngredienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
